@@ -2,4 +2,4 @@
 CollectionView with Compositional layout
 Random image when cell is reinstalled.
 
-![](https://i.imgur.com/BagkRpr.gifv)
+![](https://github.com/active-sludge/CollectionCompositeLayout/blob/main/CollectionCompositeLayoutGif.gif?raw=true)
